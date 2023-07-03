@@ -1,0 +1,36 @@
+.triangle {
+  width: 0;
+  height: 0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 120px solid var(--color-green-100);
+}
+
+.spinTriangle {
+  animation: spin_triangle 5s infinite linear;
+}
+
+button {
+  margin: 12px 0;
+  padding: 12px 16px;
+  border-radius: 8px;
+  background-color: var(--color-purple-100);
+
+  color: var(--color-default-font);
+  text-transform: capitalize;
+  font-size: min(0.9rem, 5vw);
+  font-weight: 500;
+}
+
+.button:hover {
+  opacity: 0.8;
+}
+
+@keyframes spin_triangle {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "lista": [
+    {
+      "id": 1,
+      "categoria": "Ficção Científica",
+      "livros": [
+        "Duna",
+        "1984",
+        "Neuromancer",
+        "Fundação",
+        "Eu, Robô"
+      ]
+    },
+    {
+      "id": 2,
+      "categoria": "Fantasia",
+      "livros": [
+        "O Senhor dos Anéis",
+        "Harry Potter",
+        "As Crônicas de Nárnia",
+        "Percy Jackson",
+        "A Torre Negra"
+      ]
+    },
+    {
+      "id": 3,
+      "categoria": "Romance",
+      "livros": [
+        "Orgulho e Preconceito",
+        "Romeu e Julieta",
+        "Dom Casmurro",
+        "Anna Karenina",
+        "O Morro dos Ventos Uivantes"
+      ]
+    },
+    {
+      "id": 4,
+      "categoria": "Suspense",
+      "livros": [
+        "O Código Da Vinci",
+        "Garota Exemplar",
+        "O Silêncio dos Inocentes",
+        "A Garota no Trem",
+        "O Iluminado"
+      ]
+    },
+    {
+      "id": 5,
+      "categoria": "Biografia",
+      "livros": [
+        "Steve Jobs",
+        "Malala",
+        "Albert Einstein",
+        "Nelson Mandela",
+        "Elon Musk"
+      ]
+    },
+    {
+      "id": 6,
+      "categoria": "Autoajuda",
+      "livros": [
+        "O Poder do Agora",
+        "Os 7 Hábitos das Pessoas Altamente Eficazes",
+        "Pai Rico, Pai Pobre",
+        "A Sutil Arte de Ligar o F*da-se",
+        "Como Fazer Amigos e Influenciar Pessoas"
+      ]
+    },
+    {
+      "id": 7,
+      "categoria": "História",
+      "livros": [
+        "Sapiens: Uma Breve História da Humanidade",
+        "A Segunda Guerra Mundial",
+        "A Era dos Extremos",
+        "A Marcha da Insensatez",
+        "Os Sertões"
+      ]
+    },
+    {
+      "id": 8,
+      "categoria": "Economia",
+      "livros": [
+        "O Capital",
+        "Freakonomics",
+        "Pai Rico, Pai Pobre",
+        "A Riqueza das Nações",
+        "O Investidor Inteligente"
+      ]
+    },
+    {
+      "id": 9,
+      "categoria": "Culinária",
+      "livros": [
+        "Mastering the Art of French Cooking",
+        "A Cozinha Tradicional Portuguesa",
+        "Jamie Oliver's Comfort Food",
+        "Sabor do Brasil",
+        "Gastronomia Molecular"
+      ]
+    },
+    {
+      "id": 10,
+      "categoria": "Arte",
+      "livros": [
+        "A História da Arte",
+        "Steal Like an Artist",
+        "O Cérebro Criativo",
+        "Leonardo da Vinci",
+        "A Coragem de Ser Imperfeito"
+      ]
+    },
+    {
+      "id": 11,
+      "categoria": "Ciência",
+      "livros": [
+        "Uma Breve História do Tempo",
+        "Cosmos",
+        "O Gene",
+        "O Universo Numa Casca de Noz",
+        "A Origem das Espécies"
+      ]
+    },
+    {
+      "id": 12,
+      "categoria": "Mistério",
+      "livros": [
+        "O Nome da Rosa",
+        "Assassinato no Expresso Oriente",
+        "Garota Exemplar",
+        "O Código Da Vinci",
+        "O Silêncio dos Inocentes"
+      ]
+    },
+    {
+      "id": 13,
+      "categoria": "Filosofia",
+      "livros": [
+        "Além do Bem e do Mal",
+        "Assim Falou Zaratustra",
+        "A República",
+        "O Anticristo",
+        "O Mito de Sísifo"
+      ]
+    },
+    {
+      "id": 14,
+      "categoria": "Religião",
+      "livros": [
+        "A Bíblia",
+        "O Alcorão",
+        "A Cabana",
+        "Siddhartha",
+        "Cristianismo Puro e Simples"
+      ]
+    },
+    {
+      "id": 15,
+      "categoria": "Poemas",
+      "livros": [
+        "Cem Sonetos de Amor",
+        "O Guardador de Rebanhos",
+        "Antologia Poética",
+        "A Divina Comédia",
+        "Os Lusíadas"
+      ]
+    },
+    {
+      "id": 16,
+      "categoria": "Aventura",
+      "livros": [
+        "A Ilha do Tesouro",
+        "Viagem ao Centro da Terra",
+        "A Volta ao Mundo em 80 Dias",
+        "O Hobbit",
+        "As Aventuras de Huckleberry Finn"
+      ]
+    }
+  ]
+}
